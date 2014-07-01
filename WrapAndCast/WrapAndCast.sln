@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapAndCast", "WrapAndCast\WrapAndCast.csproj", "{44DC2154-F0DB-4A77-A797-010BA44C137D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapAndCastTests", "WrapAndCastTests\WrapAndCastTests.csproj", "{DD95FE6E-00A2-41F0-808B-C176ED68077F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DC2154-F0DB-4A77-A797-010BA44C137D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DC2154-F0DB-4A77-A797-010BA44C137D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DC2154-F0DB-4A77-A797-010BA44C137D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DC2154-F0DB-4A77-A797-010BA44C137D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD95FE6E-00A2-41F0-808B-C176ED68077F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD95FE6E-00A2-41F0-808B-C176ED68077F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD95FE6E-00A2-41F0-808B-C176ED68077F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD95FE6E-00A2-41F0-808B-C176ED68077F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
