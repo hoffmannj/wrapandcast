@@ -43,7 +43,7 @@ var casted = rawObj.As<TestInterface>();
 or
 
 ```C#
-var casted = CastIt.To<TestInterface>();
+var casted = CastIt.To<TestInterface>(rawObj);
 ```
 
 or
